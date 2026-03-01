@@ -1,6 +1,6 @@
 # 🌌 LearnFlow - AI-Powered Adaptive Learning Platform
 
-> **Note:** Despite the repository name (`pdf-requirements-granted`), this project is a fully functional **AI-driven adaptive learning web application**. The name is legacy; the code is modern.
+
 
 [![React](https://img.shields.io/badge/React-18.2.0-61dafb?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178c6?logo=typescript)](https://www.typescriptlang.org/)
