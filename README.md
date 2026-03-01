@@ -47,5 +47,5 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Manu71862/pdf-requirements-granted.git
+git clone https://github.com/Suryayakkali2007/GDG.git
 cd pdf-requirements-granted
